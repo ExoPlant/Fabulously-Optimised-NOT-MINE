@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Oh Hey It's A Datapack",
+        "description": "Made by Exo",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: \"Ex0Plant\"}"
+        },
+        "show_toast": false,
+        "announce_to_chat": true
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

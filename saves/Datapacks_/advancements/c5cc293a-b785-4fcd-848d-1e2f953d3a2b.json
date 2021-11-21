@@ -1,0 +1,64 @@
+{
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2021-11-19 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "honey_bottle": "2021-11-19 21:35:53 +0000",
+      "cooked_beef": "2021-11-19 21:24:45 +0000"
+    },
+    "done": false
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2021-11-19 21:23:22 +0000"
+    },
+    "done": true
+  },
+  "global:ohiad": {
+    "criteria": {
+      "trigger": "2021-11-19 21:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2021-11-19 22:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-11-19 21:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-11-19 21:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-11-19 21:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2021-11-19 21:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-11-19 21:23:22 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

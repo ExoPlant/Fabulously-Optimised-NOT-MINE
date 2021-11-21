@@ -1,0 +1,1336 @@
+[20:43:07] [main/INFO]: Loading for game Minecraft 1.17.1
+[20:43:08] [ForkJoinPool-1-worker-7/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[20:43:10] [main/WARN]: Warnings were found! 
+ - Mod 'AntiGhost' (antighost) recommends version 1.1.7 or later of mod modupdater, which is missing!
+	 - You must install version 1.1.7 or later of modupdater.
+ - Mod 'Colormatic' (colormatic) recommends any version of mod quilt-loader, which is missing!
+	 - You must install any version of quilt-loader.
+ - Mod 'AdvancementInfo' (advancementinfo) recommends version 1.1.7 or later of mod modupdater, which is missing!
+	 - You must install version 1.1.7 or later of modupdater.
+[20:43:10] [main/INFO]: [FabricLoader] Loading 118 mods:
+	- advanced_runtime_resource_pack@0.4.3
+	- advancementinfo@1.17.1-fabric0.36.1-1.2.1
+	- animatica@0.1+1.17
+	- antighost@1.17.1-fabric0.36.1-1.1.4
+	- architectury@2.6.35
+	- autoconfig1u@3.2.2
+	- bettermounthud@1.1.2
+	- capes@1.2.2+1.17
+	- cem@0.6.2
+	- citresewn@0.8.1
+	- cloth-api@2.0.54
+	- cloth-basic-math@0.5.1
+	- cloth-client-events-v0@2.0.54
+	- cloth-common-events-v1@2.0.54
+	- cloth-config2@5.0.38
+	- cloth-datagen-api-v1@2.0.54
+	- cloth-scissors-api-v1@2.0.54
+	- cloth-utils-v1@2.0.54
+	- colormatic@2.3.0+mc.1.17.1
+	- com_moandjiezana_toml_toml4j@0.7.2
+	- completeconfig@1.2.0
+	- continuity@1.0.2+1.17
+	- crowdin-translate@1.3+1.17
+	- cullleaves@2.3.2
+	- dcch@1.0
+	- dynamicfps@2.0.6
+	- enhancedblockentities@0.5+1.17
+	- entityculling@1.3.3
+	- fabric@0.42.1+1.17
+	- fabric-api-base@0.4.0+5847535018
+	- fabric-api-lookup-api-v1@1.3.1+5847535018
+	- fabric-biome-api-v1@3.2.2+5847535018
+	- fabric-blockrenderlayer-v1@1.1.6+5847535018
+	- fabric-command-api-v1@1.1.4+5847535018
+	- fabric-commands-v0@0.2.3+5847535018
+	- fabric-containers-v0@0.1.13+5847535018
+	- fabric-content-registries-v0@0.3.1+5847535018
+	- fabric-crash-report-info-v1@0.1.6+5847535018
+	- fabric-dimensions-v1@2.0.13+5847535018
+	- fabric-entity-events-v1@1.3.1+5847535018
+	- fabric-events-interaction-v0@0.4.11+5847535018
+	- fabric-events-lifecycle-v0@0.2.2+5847535018
+	- fabric-game-rule-api-v1@1.0.8+5847535018
+	- fabric-item-api-v1@1.2.5+5847535018
+	- fabric-item-groups-v0@0.3.1+5847535018
+	- fabric-key-binding-api-v1@1.0.5+5847535018
+	- fabric-keybindings-v0@0.2.3+5847535018
+	- fabric-language-kotlin@1.6.5+kotlin.1.5.31
+	- fabric-lifecycle-events-v1@1.4.5+5847535018
+	- fabric-loot-tables-v1@1.0.5+5847535018
+	- fabric-mining-level-api-v1@1.0.2+6d0fac4218
+	- fabric-mining-levels-v0@0.1.5+6d0fac4218
+	- fabric-models-v0@0.3.1+5847535018
+	- fabric-networking-api-v1@1.0.14+5847535018
+	- fabric-networking-blockentity-v0@0.2.12+5847535018
+	- fabric-networking-v0@0.3.3+5847535018
+	- fabric-object-builder-api-v1@1.10.11+6d0fac4218
+	- fabric-object-builders-v0@0.7.5+6d0fac4218
+	- fabric-particles-v1@0.2.5+5847535018
+	- fabric-registry-sync-v0@0.7.13+5847535018
+	- fabric-renderer-api-v1@0.4.5+5847535018
+	- fabric-renderer-indigo@0.4.9+5847535018
+	- fabric-renderer-registries-v1@3.2.6+6d0fac4218
+	- fabric-rendering-data-attachment-v1@0.1.6+5847535018
+	- fabric-rendering-fluids-v1@0.2.1+6d0fac4218
+	- fabric-rendering-v0@1.1.7+6d0fac4218
+	- fabric-rendering-v1@1.10.1+6d0fac4218
+	- fabric-resource-loader-v0@0.4.9+5847535018
+	- fabric-screen-api-v1@1.0.5+5847535018
+	- fabric-screen-handler-api-v1@1.1.9+5847535018
+	- fabric-structure-api-v1@1.1.14+5847535018
+	- fabric-tag-extensions-v0@1.2.2+5847535018
+	- fabric-textures-v0@1.0.7+5847535018
+	- fabric-tool-attribute-api-v1@1.3.1+eb76084f18
+	- fabric-transfer-api-v1@1.5.1+6d0fac4218
+	- fabricloader@0.11.7
+	- fabrishot@1.5.1
+	- ferritecore@3.0.3
+	- hydrogen@0.3
+	- indium@1.0.0+mc1.17.1
+	- iris@1.1.2+build.9
+	- itemmodelfix@1.0.2+1.17
+	- java@16
+	- lambdabettergrass@1.2.1+1.17
+	- lambdynlights@2.0.2+1.17
+	- languagereload@1.2
+	- lazydfu@0.1.2
+	- lithium@0.7.5
+	- littletweaks@1.0.0
+	- mcfdebugger@1.1.1
+	- midnightlib@0.2.9
+	- minecraft@1.17.1
+	- mm@2.1
+	- modmenu@2.0.14
+	- morechathistory@1.1.0
+	- no-potion-offset@${version}
+	- nofade@1.17-2.0.0
+	- notenoughcrashes@3.7.1+1.17.1
+	- org_aperlambda_lambdajcommon@1.8.1
+	- org_codehaus_groovy_groovy@3.0.8
+	- org_codehaus_groovy_groovy-jsr223@3.0.8
+	- org_jetbrains_kotlin_kotlin-reflect@1.5.31
+	- org_jetbrains_kotlin_kotlin-stdlib@1.5.31
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.5.31
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.5.31
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm@1.5.2
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.5.2
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm@1.3.0
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm@1.3.0
+	- reeses-sodium-options@1.2.0
+	- slight-gui-modifications@2.0.2
+	- smoothboot@1.16.5-1.6.0
+	- sodium@0.3.2+IRIS2-build.9
+	- sodium-extra@0.3.5
+	- spruceui@3.3.0+1.17
+	- tooltipfix@1.0.4-1.17.1
+	- wi_zoom@1.3-MC1.17.1
+	- yosbr@0.1.1
+[20:43:10] [main/WARN]: Mod `no-potion-offset` (${version}) does not respect SemVer - comparison support is limited.
+[20:43:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Exo/AppData/Roaming/gdlauncher_next/datastore/libraries/net/fabricmc/sponge-mixin/0.9.4+mixin.0.8.2/sponge-mixin-0.9.4+mixin.0.8.2.jar Service=Knot/Fabric Env=CLIENT
+[20:43:11] [main/INFO]: Compatibility level set to JAVA_16
+[20:43:12] [main/INFO]: Loaded configuration file for Sodium: 28 options available, 1 override(s) found
+[20:43:12] [main/INFO]: Loaded configuration file for Lithium: 87 options available, 0 override(s) found
+[20:43:13] [main/WARN]: Force-disabling mixin 'features.fast_biome_colors.MixinBackgroundRenderer' as rule 'mixin.features.fast_biome_colors' (added by mods [colormatic]) disables it and children
+[20:43:13] [main/WARN]: Force-disabling mixin 'features.fast_biome_colors.MixinClientWorld' as rule 'mixin.features.fast_biome_colors' (added by mods [colormatic]) disables it and children
+[20:43:13] [main/WARN]: @Mixin target net/minecraft/class_631$class_3681 is public in sodium.mixins.json:features.chunk_rendering.MixinClientChunkManager$MixinClientChunkMap and should be specified in value
+[20:43:14] [main/WARN]: @Mixin target net/minecraft/class_2474$class_5124 is public in fabric-tag-extensions-v0.mixins.json:MixinObjectBuilder and should be specified in value
+[20:43:15] [main/WARN]: Mixin malte0811.ferritecore.mixin.dedupbakedquad.BakedQuadAccess is disabled as Hydrogen is installed
+[20:43:15] [main/WARN]: Mixin malte0811.ferritecore.mixin.dedupbakedquad.SimpleModelBuilderMixin is disabled as Hydrogen is installed
+[20:43:15] [main/WARN]: Mixin malte0811.ferritecore.mixin.mrl.ModelResourceLocationMixin is disabled as Hydrogen is installed
+[20:43:15] [main/WARN]: Mixin malte0811.ferritecore.mixin.mrl.ResourceLocationAccess is disabled as Hydrogen is installed
+[20:43:15] [main/WARN]: Error loading class: grondag/canvas/terrain/region/input/InputRegion (java.lang.ClassNotFoundException: grondag/canvas/terrain/region/input/InputRegion)
+[20:43:16] [main/WARN]: @Mixin target net/minecraft/class_3218$class_5526 is public in fabric-lifecycle-events-v1.mixins.json:ServerWorldEntityLoaderMixin and should be specified in value
+[20:43:16] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-api-v1.mixins.json:accessor.EntityTrackerAccessor and should be specified in value
+[20:43:16] [main/WARN]: Adding Mixin to disable Hydrogen's MixinState#postCreateWithTable
+[20:43:17] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenImmutableMapEntry' (url: jar:file:/C:/Users/Exo/AppData/Roaming/gdlauncher_next/instances/FO/mods/hydrogen-fabric-mc1.17.1-0.3.jar!/com/google/common/collect/HydrogenImmutableMapEntry.class)
+[20:43:17] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenEntrySetIterator' (url: jar:file:/C:/Users/Exo/AppData/Roaming/gdlauncher_next/instances/FO/mods/hydrogen-fabric-mc1.17.1-0.3.jar!/com/google/common/collect/HydrogenEntrySetIterator.class)
+[20:43:17] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenEntrySet' (url: jar:file:/C:/Users/Exo/AppData/Roaming/gdlauncher_next/instances/FO/mods/hydrogen-fabric-mc1.17.1-0.3.jar!/com/google/common/collect/HydrogenEntrySet.class)
+[20:43:17] [main/INFO]: Injecting class 'com.google.common.collect.HydrogenImmutableReferenceHashMap' (url: jar:file:/C:/Users/Exo/AppData/Roaming/gdlauncher_next/instances/FO/mods/hydrogen-fabric-mc1.17.1-0.3.jar!/com/google/common/collect/HydrogenImmutableReferenceHashMap.class)
+[20:43:17] [main/INFO]: Trying to switch memory allocators to work around memory leaks present with Jemalloc 5.0.0 through 5.2.0 on Windows
+[20:43:17] [main/INFO]: I used the json to destroy the json
+[20:43:18] [main/INFO]: Initializing StacktraceDeobfuscator
+[20:43:18] [main/INFO]: Done initializing StacktraceDeobfuscator
+[20:43:18] [main/INFO]: Smooth Boot config initialized
+[20:43:34] [Render thread/WARN]: Method overwrite conflict for method_22920 in mixins.iris.vertexformat.json:block_rendering.MixinBufferBuilder_SeparateAo, previously written by me.jellysquid.mods.sodium.mixin.features.buffer_builder.intrinsics.MixinBufferBuilder. Skipping method.
+[20:43:35] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:43:37] [Render thread/INFO]: Setting user: Ex0Plant
+[20:43:37] [Render thread/INFO]: [STDOUT]: Starting WI Zoom v1.3-MC1.17.1
+[20:43:37] [Render thread/INFO]: Definitely not up to no good
+[20:43:37] [Render thread/WARN]: @Inject(@At("INVOKE")) Shift.BY=3 on fabric-lifecycle-events-v1.mixins.json:client.WorldChunkMixin::handler$cad000$onLoadBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20:43:37] [Render thread/INFO]: NoFadeIn is running
+[20:43:37] [Render thread/INFO]: [LambdaBetterGrass] Initializing LambdaBetterGrass...
+[20:43:37] [Render thread/INFO]: [LambdaBetterGrass] Configuration loaded.
+[20:43:38] [Render thread/INFO]: [LambDynLights] Initializing LambDynamicLights...
+[20:43:38] [Render thread/INFO]: [LambDynLights] Configuration loaded.
+[20:43:38] [Render thread/INFO]: Shaders are disabled because enableShaders is set to false in iris.properties
+[20:43:38] [Render thread/INFO]: Shaders are disabled
+[20:43:43] [Render thread/INFO]: Loading 59 entities from Custom Entity Models 0.6.2
+[20:43:46] [Render thread/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[20:43:46] [ForkJoinPool.commonPool-worker-3/INFO]: Start Loading of CTS.
+[20:43:47] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[20:43:51] [Render thread/INFO]: Hardware information:
+[20:43:51] [Render thread/INFO]: CPU: 4x Intel(R) Core(TM) i5-5287U CPU @ 2.90GHz
+[20:43:51] [Render thread/INFO]: GPU: Intel(R) Iris(TM) Graphics 6100 (Supports OpenGL 3.2.0 - Build 20.19.15.4531)
+[20:43:51] [Render thread/INFO]: OS: Windows 10
+[20:43:54] [Render thread/WARN]: Method overwrite conflict for getNativeMemoryUsage in mixins.iris.json:MixinDebugHud, previously written by me.jellysquid.mods.sodium.mixin.features.debug.MixinDebugHud. Skipping method.
+[20:43:54] [Render thread/INFO]: Narrator library for x64 successfully loaded
+[20:43:54] [Render thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Key Bindings (v0), Not Enough Crashes, Function Debugger(Mod), Fabric Loader, Hydrogen, Fabric Transfer API (v1), LambdaBetterGrass, Fabric Dimensions API (v1), Fabric Game Rule API (v1), Fabric API Base, LambDynamicLights, Iris, Fabric BlockRenderLayer Registration (v1), Language Reload, Fabric API, Fabric Networking (v0), Fabric API Lookup API (v1), Fabric Screen Handler API (v1), MoreChatHistory, Mod Menu, Sodium Extra, Fabrishot, Custom Entity Models, Fabric Tool Attribute API (v1), Reese's Sodium Options, Fabric Crash Report Info (v1), Fabric Events Interaction (v0), Fabric Language Kotlin, Cull Leaves, Fabric Key Binding API (v1), Cloth Config v5, Fabric Resource Loader (v0), AntiGhost, Colormatic, Enhanced Block Entities, Fabric Registry Sync (v0), Fabric Commands (v0), Fabric Mining Levels (v0), Fabric Networking API (v1), Fabric Models (v0), Fabric Item Groups (v0), Fabric Renderer API (v1), WI Zoom, Fabric Structure API (v1), Fabric Mining Level API (v1), Lithium, Fabric Containers (v0), Fabric Object Builder API (v1), ToolTip Fix, Manningham Mills, Fabric Rendering Data Attachment (v1), Capes, Fabric Textures (v0), Animatica, MidnightLib, LazyDFU, Fabric Rendering Fluids (v1), AdvancementInfo, Fabric Lifecycle Events (v1), Sodium, Fabric Renderer Registries (v1), Fabric Loot Tables (v1), Dynamic FPS, Fabric Particles (v1), No Fade, Fabric Networking Block Entity (v0), Fabric Command API (v1), Fabric Screen API (v1), Fabric Renderer - Indigo, Smooth Boot, Fabric Item API (v1), CITResewn, 'Slight' GUI Modifications, Fabric Entity Events (v1), Fabric Rendering (v0), Fabric Rendering (v1), SpruceUI, EntityCulling-Fabric, Auto Config v1 Updated, CompleteConfig, Fabric Content Registries (v0), Fabric Tag Extensions (v0), Indium, Continuity, Fabric Biome API (v1), Item Model Fix, Runtime Resource Pack, YOSBR, Fabric Events Lifecycle (v0), LittleTweaks, Fabric Object Builders (v0)), lambdabettergrass/default, continuity/default, continuity/glass_pane_culling_fix, cullleaves/smartleaves, Mod Menu Helper.zip
+[20:43:54] [Render thread/INFO]: ARRP register - before vanilla
+[20:43:54] [Render thread/INFO]: [STDOUT]: Inject generated resource packs.
+[20:43:54] [Render thread/INFO]: [LambdaBetterGrass] Inject generated resource packs.
+[20:43:54] [Render thread/INFO]: ARRP register - after vanilla
+[20:43:54] [Render thread/ERROR]: [citresewn] Caution! Broken paths is enabled!
+[20:44:06] [Worker-Main-2/INFO]: [citresewn] Parsing CITs...
+[20:44:07] [Worker-Main-2/INFO]: [citresewn] No cit packs found.
+[20:44:14] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[20:44:14] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[20:44:15] [Render thread/INFO]: OpenAL initialized.
+[20:44:15] [Render thread/INFO]: Sound engine started
+[20:44:15] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[20:44:15] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[20:44:20] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[20:44:20] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[20:44:20] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[20:44:20] [Render thread/INFO]: [[[ Model de-duplication statistics ]]]
+[20:44:20] [Render thread/INFO]: Baked quad cache: DeduplicationCache ( 104332/156973 de-duplicated, 52641 pooled )
+[20:44:20] [Render thread/INFO]: Properties cache: DeduplicationCache ( 274441/275836 de-duplicated, 355 pooled )
+[20:44:20] [Render thread/INFO]: [[[ Identifier de-duplication statistics ]]]
+[20:44:20] [Render thread/INFO]: Namespace cache: DeduplicationCache ( 309863/644346 de-duplicated, 105 pooled )
+[20:44:20] [Render thread/INFO]: Path cache: DeduplicationCache ( 564232/644346 de-duplicated, 34767 pooled )
+[20:44:22] [LittleTweaks/AudioSwitcher/INFO]: OpenAL initialized.
+[20:44:22] [LittleTweaks/AudioSwitcher/INFO]: Sound engine started
+[20:44:26] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:44:26] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:44:26] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:44:26] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:44:26] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:44:27] [Render thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Tool Attribute API (v1)), Oh hey it's a datapack
+[20:44:27] [Render thread/INFO]: ARRP register - before vanilla
+[20:44:27] [Render thread/INFO]: ARRP register - after vanilla
+[20:44:27] [Render thread/INFO]: Loaded 7 recipes
+[20:44:28] [Render thread/ERROR]: Failed to load function exo:ohiad/main
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:44:28] [Render thread/ERROR]: Failed to load function exo:ohiad/reset
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:44:28] [Render thread/ERROR]: Couldn't load tag minecraft:tick as it is missing following references: exo:ohiad/main (from Oh hey it's a datapack)
+[20:44:28] [Render thread/ERROR]: Couldn't load tag minecraft:load as it is missing following references: exo:ohiad/reset (from Oh hey it's a datapack)
+[20:44:28] [Render thread/INFO]: Loaded 1139 advancements
+[20:44:28] [Render thread/INFO]: Applied 0 biome modifications to 0 of 81 new biomes in 11.40 ms
+[20:44:31] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:44:31] [Server thread/INFO]: Starting integrated minecraft server version 1.17.1
+[20:44:31] [Server thread/INFO]: Generating keypair
+[20:44:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:44:33] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:33] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:33] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:33] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:34] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:34] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:35] [Render thread/INFO]: Preparing spawn area: 0%
+[20:44:35] [Render thread/INFO]: Preparing spawn area: 1%
+[20:44:36] [Render thread/INFO]: Preparing spawn area: 4%
+[20:44:36] [Render thread/INFO]: Preparing spawn area: 4%
+[20:44:37] [Render thread/INFO]: Preparing spawn area: 9%
+[20:44:39] [Render thread/INFO]: Preparing spawn area: 11%
+[20:44:39] [Render thread/INFO]: Preparing spawn area: 11%
+[20:44:39] [Render thread/INFO]: Preparing spawn area: 11%
+[20:44:39] [Render thread/INFO]: Preparing spawn area: 11%
+[20:44:39] [Render thread/INFO]: Preparing spawn area: 23%
+[20:44:40] [Render thread/INFO]: Preparing spawn area: 48%
+[20:44:40] [Render thread/INFO]: Preparing spawn area: 71%
+[20:44:41] [Render thread/INFO]: Preparing spawn area: 89%
+[20:44:41] [Render thread/INFO]: Preparing spawn area: 89%
+[20:44:42] [Render thread/INFO]: Time elapsed: 9994 ms
+[20:44:42] [Server thread/INFO]: Changing view distance to 11, from 10
+[20:44:43] [Server thread/INFO]: Ex0Plant[local:E:b339608d] logged in with entity id 1 at (-65.4665730019393, 6.751783903347111, -108.06981163289592)
+[20:44:43] [Server thread/INFO]: Ex0Plant joined the game
+[20:44:44] [Render thread/INFO]: Started 4 worker threads
+[20:44:44] [Server thread/INFO]: Saving and pausing game...
+[20:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:44:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:44:44] [Render thread/INFO]: Loaded 2 advancements
+[20:44:44] [Render thread/INFO]: Creating pipeline OVERWORLD
+[20:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[20:44:58] [Server thread/INFO]: Saving and pausing game...
+[20:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:44:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:47:21] [Server thread/INFO]: Saving and pausing game...
+[20:47:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:47:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:47:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:47:27] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:47:27] [Render thread/INFO]: [CHAT] ...ggerConfig<--[HERE]
+[20:47:28] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:47:28] [Render thread/INFO]: [CHAT] ...fig enable<--[HERE]
+[20:47:30] [Server thread/INFO]: [Ex0Plant: Function debugger has been enabled.]
+[20:47:30] [Render thread/INFO]: [CHAT] Function debugger has been enabled.
+[20:47:33] [Server thread/INFO]: Saving and pausing game...
+[20:47:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:47:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:47:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:48:10] [Server thread/INFO]: Saving and pausing game...
+[20:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:49:08] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:49:08] [Render thread/INFO]: [CHAT] ...onfig port<--[HERE]
+[20:49:18] [Server thread/INFO]: [Ex0Plant: The Websocket server port of function debugger has been set to port:1453]
+[20:49:18] [Render thread/INFO]: [CHAT] The Websocket server port of function debugger has been set to port:1453
+[20:49:22] [Server thread/INFO]: Saving and pausing game...
+[20:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:49:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:51:22] [Server thread/INFO]: [Ex0Plant: Reloading!]
+[20:51:22] [Render thread/INFO]: [CHAT] Reloading!
+[20:51:22] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:51:22] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:51:22] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:51:22] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:51:22] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:51:22] [Server thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Tool Attribute API (v1)), Oh hey it's a datapack
+[20:51:22] [Server thread/INFO]: ARRP register - before vanilla
+[20:51:22] [Server thread/INFO]: ARRP register - after vanilla
+[20:51:27] [Render thread/WARN]: Warning! Mod bettermounthud has a broken icon, loading default icon
+[20:51:27] [Server thread/INFO]: Loaded 7 recipes
+[20:51:27] [Server thread/ERROR]: Failed to load function exo:ohiad/main
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:51:27] [Server thread/ERROR]: Failed to load function exo:ohiad/reset
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:51:27] [Server thread/ERROR]: Couldn't load tag minecraft:tick as it is missing following references: exo:ohiad/main (from Oh hey it's a datapack)
+[20:51:27] [Server thread/ERROR]: Couldn't load tag minecraft:load as it is missing following references: exo:ohiad/reset (from Oh hey it's a datapack)
+[20:51:28] [Server thread/INFO]: Loaded 1139 advancements
+[20:51:28] [Server thread/INFO]: closing rrp ebe:pack
+[20:51:28] [Server thread/INFO]: closing rrp slightguimodifications:cts_textures
+[20:51:28] [Render thread/ERROR]: Invalid mod icon for icon source dcch: assets/modid/icon.png
+java.nio.file.NoSuchFileException: /assets/modid/icon.png
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at jdk.nio.zipfs.ZipFileSystem.newInputStream(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.nio.zipfs.ZipPath.newInputStream(Unknown Source) ~[jdk.zipfs:?]
+	at jdk.nio.zipfs.ZipFileSystemProvider.newInputStream(Unknown Source) ~[jdk.zipfs:?]
+	at java.nio.file.Files.newInputStream(Unknown Source) ~[?:?]
+	at com.terraformersmc.modmenu.util.mod.ModIconHandler.createIcon(ModIconHandler.java:33) ~[modmenu-2.0.14.jar:?]
+	at com.terraformersmc.modmenu.util.mod.fabric.FabricMod.getIcon(FabricMod.java:179) ~[modmenu-2.0.14.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.entries.ModListEntry.bindIconTexture(ModListEntry.java:97) ~[modmenu-2.0.14.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.entries.ModListEntry.render(ModListEntry.java:53) ~[modmenu-2.0.14.jar:?]
+	at com.terraformersmc.modmenu.gui.widget.ModListWidget.renderList(ModListWidget.java:227) ~[modmenu-2.0.14.jar:?]
+	at net.minecraft.client.gui.widget.EntryListWidget.render(EntryListWidget:219) ~[?:?]
+	at com.terraformersmc.modmenu.gui.ModsScreen.render(ModsScreen.java:280) ~[modmenu-2.0.14.jar:?]
+	at net.minecraft.client.render.GameRenderer.render(GameRenderer:874) ~[?:?]
+	at net.minecraft.client.MinecraftClient.render(MinecraftClient:1112) ~[?:?]
+	at net.minecraft.client.MinecraftClient.run(MinecraftClient:728) ~[?:?]
+	at net.minecraft.client.main.Main.main(Main:217) [intermediary-1.17.1.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:?]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:?]
+	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:234) [fabric-loader-0.11.7.jar:?]
+	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:153) [fabric-loader-0.11.7.jar:?]
+	at net.fabricmc.loader.launch.knot.KnotClient.main(KnotClient.java:28) [fabric-loader-0.11.7.jar:?]
+[20:51:28] [Render thread/WARN]: Warning! Mod dcch has a broken icon, loading default icon
+[20:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7240ms or 144 ticks behind
+[20:51:29] [Server thread/INFO]: Saving and pausing game...
+[20:51:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:51:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:51:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:51:43] [Render thread/INFO]: Loaded 2 advancements
+[20:51:43] [Server thread/INFO]: Saving and pausing game...
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:51:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:51:46] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:51:46] [Render thread/INFO]: [CHAT] /debug<--[HERE]
+[20:52:04] [Server thread/INFO]: [Ex0Plant] hi
+[20:52:05] [Render thread/INFO]: [CHAT] [Ex0Plant] hi
+[20:52:08] [Server thread/INFO]: Saving and pausing game...
+[20:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:52:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:52:16] [Server thread/INFO]: [Ex0Plant] hi
+[20:52:16] [Render thread/INFO]: [CHAT] [Ex0Plant] hi
+[20:52:17] [Server thread/INFO]: [Ex0Plant] hi
+[20:52:17] [Render thread/INFO]: [CHAT] [Ex0Plant] hi
+[20:52:19] [Server thread/INFO]: Saving and pausing game...
+[20:52:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:52:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:52:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:52:39] [Server thread/INFO]: Saving and pausing game...
+[20:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:52:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:52:58] [Render thread/INFO]: [CHAT] /ghost
+[20:52:58] [Render thread/INFO]: [CHAT] /citresewn [config]
+[20:52:58] [Render thread/INFO]: [CHAT] /fabric-command-api-v1:client help [<command>]
+[20:52:58] [Render thread/INFO]: [CHAT] /fcc -> fabric-command-api-v1:client
+[20:53:02] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:53:02] [Render thread/INFO]: [CHAT] /fcc<--[HERE]
+[20:53:04] [Render thread/INFO]: [CHAT] /ghost
+[20:53:04] [Render thread/INFO]: [CHAT] /citresewn [config]
+[20:53:04] [Render thread/INFO]: [CHAT] /fabric-command-api-v1:client help [<command>]
+[20:53:04] [Render thread/INFO]: [CHAT] /fcc -> fabric-command-api-v1:client
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-88, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-87, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=8, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=8, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=8, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=9, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-86, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=8, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=8, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=8, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=8, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=8, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=9, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-85, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=8, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=8, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=8, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=8, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=8, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=9, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-84, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=8, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=8, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=8, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=8, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=8, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=9, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-83, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=8, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=8, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=8, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=9, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=13, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=14, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=15, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-82, y=16, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=9, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=9, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=9, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=9, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=9, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=10, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=11, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-123}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-122}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-121}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-120}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=12, z=-119}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-127}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-126}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-125}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-124}
+[20:53:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=13, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=14, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=15, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-81, y=16, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=9, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=9, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=9, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=10, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=11, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=12, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=13, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=14, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-127}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-120}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=15, z=-119}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-126}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-125}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-124}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-123}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-122}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-121}
+[20:53:14] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-80, y=16, z=-120}
+[20:53:18] [Server thread/INFO]: Saving and pausing game...
+[20:53:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:53:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:53:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:54:06] [Render thread/INFO]: [CHAT] Unknown function minecraft:main
+[20:54:18] [Render thread/INFO]: [CHAT] Unknown function ohiad:main
+[20:54:23] [Render thread/INFO]: [CHAT] There are 3 data packs enabled: [vanilla (built-in)], [Fabric Mods (Fabric mod)], [file/Oh hey it's a datapack (world)]
+[20:54:23] [Render thread/INFO]: [CHAT] There are no more data packs available
+[20:54:26] [Server thread/INFO]: [Ex0Plant: Disabling data pack [file/Oh hey it's a datapack (world)]]
+[20:54:26] [Render thread/INFO]: [CHAT] Disabling data pack [file/Oh hey it's a datapack (world)]
+[20:54:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:26] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:26] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:26] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:26] [Server thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Tool Attribute API (v1))
+[20:54:26] [Server thread/INFO]: ARRP register - before vanilla
+[20:54:26] [Server thread/INFO]: ARRP register - after vanilla
+[20:54:29] [Server thread/INFO]: Loaded 7 recipes
+[20:54:29] [Server thread/INFO]: Loaded 1137 advancements
+[20:54:29] [Server thread/INFO]: closing rrp ebe:pack
+[20:54:29] [Server thread/INFO]: closing rrp slightguimodifications:cts_textures
+[20:54:30] [Server thread/WARN]: Ignored advancement 'global:root' in progress file ..\..\instances\FO\saves\Datapacks_\advancements\8b07d8ad-352e-4b86-b1bc-2d2dad269c4b.json - it doesn't exist anymore?
+[20:54:30] [Server thread/WARN]: Ignored advancement 'global:ohiad' in progress file ..\..\instances\FO\saves\Datapacks_\advancements\8b07d8ad-352e-4b86-b1bc-2d2dad269c4b.json - it doesn't exist anymore?
+[20:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4038ms or 80 ticks behind
+[20:54:31] [Render thread/INFO]: Loaded 0 advancements
+[20:54:32] [Server thread/INFO]: [Ex0Plant: Enabling data pack [file/Oh hey it's a datapack (world)]]
+[20:54:32] [Render thread/INFO]: [CHAT] Enabling data pack [file/Oh hey it's a datapack (world)]
+[20:54:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:32] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:32] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:54:32] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:54:32] [Server thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Tool Attribute API (v1)), Oh hey it's a datapack
+[20:54:32] [Server thread/INFO]: ARRP register - before vanilla
+[20:54:32] [Server thread/INFO]: ARRP register - after vanilla
+[20:54:38] [Server thread/INFO]: Loaded 7 recipes
+[20:54:38] [Server thread/ERROR]: Failed to load function exo:ohiad/main
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:54:38] [Server thread/ERROR]: Failed to load function exo:ohiad/reset
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at Not Enough Crashes deobfuscated stack trace.(1.17.1+build.63) ~[?:?]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(Unknown Source) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[?:?]
+Caused by: java.lang.StringIndexOutOfBoundsException: begin 0, end 2, length 1
+	at java.lang.String.checkBoundsBeginEnd(Unknown Source) ~[?:?]
+	at java.lang.String.substring(Unknown Source) ~[?:?]
+	at com.hb.mcfdebugger.mixinHelpers.FakeCommandFunctionCreate.create(FakeCommandFunctionCreate.java:31) ~[mcfdebugger-1.2.1.jar:?]
+	at net.minecraft.server.function.FunctionLoader.md55f0dc$lambda$reload$3$5(FunctionLoader:1074) ~[?:?]
+	... 7 more
+[20:54:38] [Server thread/ERROR]: Couldn't load tag minecraft:tick as it is missing following references: exo:ohiad/main (from Oh hey it's a datapack)
+[20:54:38] [Server thread/ERROR]: Couldn't load tag minecraft:load as it is missing following references: exo:ohiad/reset (from Oh hey it's a datapack)
+[20:54:39] [Server thread/INFO]: Loaded 1139 advancements
+[20:54:39] [Server thread/INFO]: closing rrp ebe:pack
+[20:54:39] [Server thread/INFO]: closing rrp slightguimodifications:cts_textures
+[20:54:39] [Server thread/INFO]: Ex0Plant has made the advancement [Oh Hey It's A Datapack]
+[20:54:39] [Render thread/INFO]: [CHAT] Ex0Plant has made the advancement [Oh Hey It's A Datapack]
+[20:54:39] [Render thread/INFO]: Loaded 2 advancements
+[20:54:45] [Server thread/INFO]: [Ex0Plant] h
+[20:54:45] [Render thread/INFO]: [CHAT] [Ex0Plant] h
+[20:54:47] [Server thread/INFO]: Saving and pausing game...
+[20:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:54:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:57:37] [Server thread/INFO]: Saving and pausing game...
+[20:57:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:57:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:57:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:58:53] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:58:53] [Render thread/INFO]: [CHAT] ...est create<--[HERE]
+[20:59:03] [Server thread/INFO]: Saving and pausing game...
+[20:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:59:06] [Server thread/INFO]: Saving and pausing game...
+[20:59:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[20:59:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[20:59:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[20:59:14] [Render thread/INFO]: [CHAT] Running all 0 tests...
+[20:59:45] [Server thread/INFO]: [Ex0Plant: mcfdebugger.set_time_out]
+[20:59:45] [Render thread/INFO]: [CHAT] mcfdebugger.set_time_out
+[20:59:56] [Render thread/INFO]: [CHAT] Unknown or incomplete command, see below for error
+[20:59:56] [Render thread/INFO]: [CHAT] ...ig timeOut<--[HERE]
+[21:02:35] [Render thread/INFO]: [CHAT] CIT Resewn v0.8.1:
+[21:02:35] [Render thread/INFO]: [CHAT]   Active: no
+[21:02:35] [Render thread/INFO]: [CHAT]   
+[21:02:40] [Render thread/WARN]: Syntax exception for client-sided command '/citresewn config e'
+com.mojang.brigadier.exceptions.CommandSyntaxException: Incorrect argument for command at position 17: ...wn config <--[HERE]
+[21:02:40] [Render thread/INFO]: [CHAT] Incorrect argument for command at position ...wn config <--[HERE]: 
+[21:02:42] [Server thread/INFO]: Saving and pausing game...
+[21:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:02:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:02:50] [Server thread/INFO]: Saving and pausing game...
+[21:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:02:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:04:34] [Render thread/INFO]: Reloading ResourceManager: Default, Runtime Resource Packebe:pack, Fabric Mods (Fabric Key Bindings (v0), Not Enough Crashes, Function Debugger(Mod), Fabric Loader, Hydrogen, Fabric Transfer API (v1), LambdaBetterGrass, Fabric Dimensions API (v1), Fabric Game Rule API (v1), Fabric API Base, LambDynamicLights, Iris, Fabric BlockRenderLayer Registration (v1), Language Reload, Fabric API, Fabric Networking (v0), Fabric API Lookup API (v1), Fabric Screen Handler API (v1), MoreChatHistory, Mod Menu, Sodium Extra, Fabrishot, Custom Entity Models, Fabric Tool Attribute API (v1), Reese's Sodium Options, Fabric Crash Report Info (v1), Fabric Events Interaction (v0), Fabric Language Kotlin, Cull Leaves, Fabric Key Binding API (v1), Cloth Config v5, Fabric Resource Loader (v0), AntiGhost, Colormatic, Enhanced Block Entities, Fabric Registry Sync (v0), Fabric Commands (v0), Fabric Mining Levels (v0), Fabric Networking API (v1), Fabric Models (v0), Fabric Item Groups (v0), Fabric Renderer API (v1), WI Zoom, Fabric Structure API (v1), Fabric Mining Level API (v1), Lithium, Fabric Containers (v0), Fabric Object Builder API (v1), ToolTip Fix, Manningham Mills, Fabric Rendering Data Attachment (v1), Capes, Fabric Textures (v0), Animatica, MidnightLib, LazyDFU, Fabric Rendering Fluids (v1), AdvancementInfo, Fabric Lifecycle Events (v1), Sodium, Fabric Renderer Registries (v1), Fabric Loot Tables (v1), Dynamic FPS, Fabric Particles (v1), No Fade, Fabric Networking Block Entity (v0), Fabric Command API (v1), Fabric Screen API (v1), Fabric Renderer - Indigo, Smooth Boot, Fabric Item API (v1), CITResewn, 'Slight' GUI Modifications, Fabric Entity Events (v1), Fabric Rendering (v0), Fabric Rendering (v1), SpruceUI, EntityCulling-Fabric, Auto Config v1 Updated, CompleteConfig, Fabric Content Registries (v0), Fabric Tag Extensions (v0), Indium, Continuity, Fabric Biome API (v1), Item Model Fix, Runtime Resource Pack, YOSBR, Fabric Events Lifecycle (v0), LittleTweaks, Fabric Object Builders (v0)), lambdabettergrass/default, continuity/default, continuity/glass_pane_culling_fix, cullleaves/smartleaves, Mod Menu Helper.zip, itemboundrebound-e3110.zip
+[21:04:34] [Render thread/INFO]: closing rrp ebe:pack
+[21:04:34] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures
+[21:04:34] [Render thread/INFO]: ARRP register - before vanilla
+[21:04:34] [Render thread/INFO]: [STDOUT]: Inject generated resource packs.
+[21:04:34] [Render thread/INFO]: [LambdaBetterGrass] Inject generated resource packs.
+[21:04:34] [Render thread/INFO]: ARRP register - after vanilla
+[21:04:34] [Render thread/ERROR]: [citresewn] Caution! Broken paths is enabled!
+[21:04:40] [Worker-Main-26/INFO]: [citresewn] Parsing CITs...
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/food/yogurt.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/awkward/ld.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/awkward/nd.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/awkward/sd.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/mundane/ld.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/mundane/nd.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/mundane/sd.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/thick/ld.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/thick/nd.properties
+[21:04:40] [Worker-Main-26/ERROR]: {citresewn} Skipped CIT: Cannot resolve path for model/texture in itemboundrebound-e3110.zip -> minecraft:optifine/cit/itembound/consumables/potions/basic/thick/sd.properties
+[21:04:41] [Worker-Main-26/INFO]: [citresewn] Found 2184 CITs in itemboundrebound-e3110.zip
+[21:04:41] [Worker-Main-26/INFO]: [citresewn] Activating CITs...
+[21:04:41] [Worker-Main-26/INFO]: [citresewn] Loading CITItem models...
+[21:04:45] [Worker-Main-26/WARN]: Unable to load model: 'minecraft:oak_sapling#stage=0' referenced from: lambdabettergrass:block/mossy_layer: java.lang.IllegalStateException: Circular reference while loading lambdabettergrass:block/mossy_layer
+[21:04:55] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[21:04:55] [Render thread/INFO]: 'language' is an unsupported metadata key!
+[21:04:55] [Render thread/INFO]: OpenAL initialized.
+[21:04:55] [Render thread/INFO]: Sound engine started
+[21:04:56] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/blocks.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:04:56] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:04:57] [Render thread/INFO]: [citresewn] Linking baked models to CITItems...
+[21:04:58] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:04:58] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:04:58] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:04:58] [Render thread/INFO]: [[[ Model de-duplication statistics ]]]
+[21:04:58] [Render thread/INFO]: Baked quad cache: DeduplicationCache ( 126534/268950 de-duplicated, 142416 pooled )
+[21:04:58] [Render thread/INFO]: Properties cache: DeduplicationCache ( 548132/550568 de-duplicated, 355 pooled )
+[21:04:58] [Render thread/INFO]: [[[ Identifier de-duplication statistics ]]]
+[21:04:58] [Render thread/INFO]: Namespace cache: DeduplicationCache ( 732284/1476194 de-duplicated, 109 pooled )
+[21:04:58] [Render thread/INFO]: Path cache: DeduplicationCache ( 1319462/1476194 de-duplicated, 63069 pooled )
+[21:04:58] [Render thread/INFO]: Stopping worker threads
+[21:04:58] [Render thread/INFO]: Started 4 worker threads
+[21:07:49] [Render thread/INFO]: Loaded 4 advancements
+[21:09:26] [Server thread/INFO]: Saving and pausing game...
+[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:09:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:09:58] [Server thread/INFO]: Saving and pausing game...
+[21:09:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:09:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:09:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:10:39] [Server thread/INFO]: Saving and pausing game...
+[21:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:10:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:11:50] [Server thread/INFO]: Saving and pausing game...
+[21:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:11:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:12:45] [Server thread/INFO]: Saving and pausing game...
+[21:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:12:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:12:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:13:24] [Server thread/INFO]: Saving and pausing game...
+[21:13:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:13:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:13:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:13:37] [Render thread/INFO]: Loaded 5 advancements
+[21:15:23] [Server thread/INFO]: Saving and pausing game...
+[21:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:15:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:17:47] [Render thread/INFO]: Loaded 20 advancements
+[21:17:49] [Server thread/INFO]: Saving and pausing game...
+[21:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:17:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:19:25] [Server thread/INFO]: Saving and pausing game...
+[21:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:19:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:21:17] [Render thread/INFO]: Loaded 20 advancements
+[21:21:34] [Server thread/INFO]: Saving and pausing game...
+[21:21:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[21:21:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[21:21:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[21:21:37] [Render thread/INFO]: Using default channel type
+[21:21:37] [Render thread/INFO]: Started serving on 63687
+[21:21:37] [Render thread/INFO]: [CHAT] Local game hosted on port 63687
+[21:23:22] [User Authenticator #1/INFO]: UUID of player Tir_far_thoinn is c5cc293a-b785-4fcd-848d-1e2f953d3a2b
+[21:23:22] [Server thread/INFO]: Tir_far_thoinn[/192.168.1.81:50638] logged in with entity id 59 at (-86.5, 4.0, -75.5)
+[21:23:22] [Server thread/INFO]: Tir_far_thoinn joined the game
+[21:23:22] [Render thread/INFO]: [CHAT] Tir_far_thoinn joined the game
+[21:23:22] [Server thread/INFO]: Tir_far_thoinn has made the advancement [Oh Hey It's A Datapack]
+[21:23:23] [Render thread/INFO]: [CHAT] Tir_far_thoinn has made the advancement [Oh Hey It's A Datapack]
+[21:23:23] [Netty Server IO #5/ERROR]: Could not serialize net.minecraft.class_4530@4a634b9f (class net.minecraft.class_4530) - will not be sent to client!
+[21:23:23] [Netty Server IO #5/ERROR]: Could not serialize net.minecraft.class_4526@426a57db (class net.minecraft.class_4526) - will not be sent to client!
+[21:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[21:24:02] [Render thread/INFO]: Loaded 38 advancements
+[21:38:51] [Render thread/INFO]: Loaded 40 advancements
+[21:39:02] [Render thread/INFO]: Loaded 41 advancements
+[21:39:19] [Server thread/INFO]: Tir_far_thoinn has reached the goal [Sky's the Limit]
+[21:39:19] [Render thread/INFO]: [CHAT] Tir_far_thoinn has reached the goal [Sky's the Limit]
+[21:41:02] [Render thread/INFO]: Loaded 45 advancements
+[21:41:29] [Server thread/INFO]: [Ex0Plant: Set the time to 13000]
+[21:41:29] [Render thread/INFO]: [CHAT] Set the time to 13000
+[21:46:45] [Server thread/INFO]: Ex0Plant has reached the goal [Sky's the Limit]
+[21:46:45] [Render thread/INFO]: [CHAT] Ex0Plant has reached the goal [Sky's the Limit]
+[21:46:45] [Render thread/INFO]: Loaded 50 advancements
+[21:51:33] [Server thread/INFO]: [Ex0Plant: Gave 1 [Firework Rocket] to Ex0Plant]
+[21:51:33] [Render thread/INFO]: [CHAT] Gave 1 [Firework Rocket] to Ex0Plant
+[21:51:45] [Server thread/INFO]: [Ex0Plant: Set the time to 13000]
+[21:51:45] [Render thread/INFO]: [CHAT] Set the time to 13000
+[21:53:09] [Server thread/INFO]: [Tir_far_thoinn: Gave 1 [?] to Tir_far_thoinn]
+[21:53:09] [Render thread/INFO]: [CHAT] [Tir_far_thoinn: Gave 1 [?] to Tir_far_thoinn]
+[21:58:43] [Server thread/INFO]: [Ex0Plant: Gave 1 [Command Block] to Ex0Plant]
+[21:58:43] [Render thread/INFO]: [CHAT] Gave 1 [Command Block] to Ex0Plant
+[21:58:48] [Render thread/INFO]: [CHAT] Command set: /tellraw @a ["",{"text":"I am p","color":"#FF00FF"},{"text":"roud","color":"#FF84FF"},{"text":"ly bi","color":"#0000C7"},{"text":" plu","color":"#FF00FF"},{"text":"s ge","color":"white"},{"text":"nde","color":"#6B00CA"},{"text":"rfl","color":"black"},{"text":"uid","color":"#0300FF"}]
+[21:58:55] [Render thread/INFO]: [CHAT] I am proudly bi plus genderfluid
+[21:59:15] [Server thread/INFO]: [@: Gave 1 [Pansexuality] to Tir_far_thoinn]
+[21:59:15] [Render thread/INFO]: [CHAT] [@: Gave 1 [Pansexuality] to Tir_far_thoinn]
+[21:59:46] [Server thread/INFO]: [@: Gave 1 [Pansexuality] to Tir_far_thoinn]
+[21:59:46] [Render thread/INFO]: [CHAT] [@: Gave 1 [Pansexuality] to Tir_far_thoinn]
+[22:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[22:06:19] [CullThread/INFO]: [STDOUT]: Shutting down culling task!
+[22:06:19] [Render thread/INFO]: Stopping!
+[22:06:19] [Server thread/INFO]: Ex0Plant lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[22:06:19] [Server thread/INFO]: Ex0Plant left the game
+[22:06:19] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[22:06:20] [Server thread/INFO]: Stopping server
+[22:06:20] [Server thread/INFO]: Saving players
+[22:06:20] [Server thread/INFO]: Saving worlds
+[22:06:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:overworld
+[22:06:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_nether
+[22:06:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Datapacks.]'/minecraft:the_end
+[22:06:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (Datapacks_): All chunks are saved
+[22:06:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:06:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:06:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:06:20] [Server thread/INFO]: closing rrp ebe:pack
+[22:06:20] [Server thread/INFO]: closing rrp slightguimodifications:cts_textures
+[22:06:20] [Render thread/INFO]: Stopping worker threads
+[22:06:20] [Render thread/INFO]: Destroying pipeline OVERWORLD
+[22:06:21] [Render thread/INFO]: closing rrp ebe:pack
+[22:06:21] [Render thread/INFO]: closing rrp slightguimodifications:cts_textures

@@ -1,0 +1,3 @@
+preferredDevice = "OpenAL Soft on Speakers (Cirrus Logic CS4208 (AB 123))"
+useDefaultDevice = false
+tickAudioEvery = 40
